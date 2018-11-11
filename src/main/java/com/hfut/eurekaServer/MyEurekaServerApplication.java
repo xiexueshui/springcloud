@@ -13,6 +13,6 @@ public class MyEurekaServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyEurekaServerApplication.class, args);
-		log.info("Eureka 注册中心1000 启动");
+		log.info("Eureka 注册中心1000 启动1111111111111");
 	}
 }
